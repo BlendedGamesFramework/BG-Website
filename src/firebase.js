@@ -4,13 +4,13 @@ import '@firebase/firestore';
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyAm38vm2k27gMXPSLjH_PNQ-8QoHsxjWng",
-    authDomain: "blended-games-cc73b.firebaseapp.com",
-    projectId: "blended-games-cc73b",
-    storageBucket: "blended-games-cc73b.appspot.com",
-    messagingSenderId: "681561900800",
-    appId: "1:681561900800:web:caf3e8fe64b7759fd6d5e5",
-    measurementId: "G-JPLNHQZ6M2"
+    apiKey: "AIzaSyCTp7wl8iifEbYvXpd2n0Jj8GOdzo6ju-Q",
+    authDomain: "blended-games-898a7.firebaseapp.com",
+    projectId: "blended-games-898a7",
+    storageBucket: "blended-games-898a7.appspot.com",
+    messagingSenderId: "405005751260",
+    appId: "1:405005751260:web:8ef996a8450c840d73b519",
+    measurementId: "G-X6ZNS5X63L"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
